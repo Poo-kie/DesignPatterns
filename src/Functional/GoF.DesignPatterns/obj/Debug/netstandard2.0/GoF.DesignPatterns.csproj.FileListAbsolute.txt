@@ -1,0 +1,9 @@
+/Users/pookie/Projects/DesignPatterns/src/Functional/GoF.DesignPatterns/obj/Debug/netstandard2.0/GoF.DesignPatterns.csprojAssemblyReference.cache
+/Users/pookie/Projects/DesignPatterns/src/Functional/GoF.DesignPatterns/obj/Debug/netstandard2.0/GoF.DesignPatterns.csproj.CoreCompileInputs.cache
+/Users/pookie/Projects/DesignPatterns/src/Functional/GoF.DesignPatterns/obj/Debug/netstandard2.0/GoF.DesignPatterns.AssemblyInfoInputs.cache
+/Users/pookie/Projects/DesignPatterns/src/Functional/GoF.DesignPatterns/obj/Debug/netstandard2.0/GoF.DesignPatterns.AssemblyInfo.cs
+/Users/pookie/Projects/DesignPatterns/src/Functional/GoF.DesignPatterns/bin/Debug/netstandard2.0/GoF.DesignPatterns.deps.json
+/Users/pookie/Projects/DesignPatterns/src/Functional/GoF.DesignPatterns/bin/Debug/netstandard2.0/GoF.DesignPatterns.dll
+/Users/pookie/Projects/DesignPatterns/src/Functional/GoF.DesignPatterns/bin/Debug/netstandard2.0/GoF.DesignPatterns.pdb
+/Users/pookie/Projects/DesignPatterns/src/Functional/GoF.DesignPatterns/obj/Debug/netstandard2.0/GoF.DesignPatterns.dll
+/Users/pookie/Projects/DesignPatterns/src/Functional/GoF.DesignPatterns/obj/Debug/netstandard2.0/GoF.DesignPatterns.pdb

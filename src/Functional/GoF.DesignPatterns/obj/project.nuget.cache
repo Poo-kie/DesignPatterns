@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GN7zVrp2aWKwhcni3XUg8hDeYkGKTU+oMLTa86Y0lWPrJP3ZrCBhOu+eaWSeo5XwiKxfgh0pht//kpF7OwlFSg==",
+  "success": true,
+  "projectFilePath": "/Users/pookie/Projects/DesignPatterns/src/Functional/GoF.DesignPatterns/GoF.DesignPatterns.csproj",
+  "expectedPackageFiles": [
+    "/Users/pookie/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/pookie/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
