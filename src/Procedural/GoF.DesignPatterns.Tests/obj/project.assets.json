@@ -1648,6 +1648,16 @@
         "build": {
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "GoF.DesignPatterns/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/GoF.DesignPatterns.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GoF.DesignPatterns.dll": {}
+        }
       }
     }
   },
@@ -5611,10 +5621,16 @@
         "xunit.runner.visualstudio.2.4.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "GoF.DesignPatterns/1.0.0": {
+      "type": "project",
+      "path": "../GoF.DesignPatterns/GoF.DesignPatterns.csproj",
+      "msbuildProject": "../GoF.DesignPatterns/GoF.DesignPatterns.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "GoF.DesignPatterns >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.7.1",
       "coverlet.collector >= 1.3.0",
       "xunit >= 2.4.1",
@@ -5645,7 +5661,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/pookie/Projects/DesignPatterns/src/Procedural/GoF.DesignPatterns/GoF.DesignPatterns.csproj": {
+              "projectPath": "/Users/pookie/Projects/DesignPatterns/src/Procedural/GoF.DesignPatterns/GoF.DesignPatterns.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

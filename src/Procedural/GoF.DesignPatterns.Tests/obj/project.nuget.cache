@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8D/SRI07HkJ748gJCjz6Dj1uSJ4pLAYygDCBMJG3JgpbzWrD1C9BC5QHw90SLHxmCukq4sAdzedTuXTC7j0SDQ==",
+  "dgSpecHash": "CdNRX2atNYIwEsd3VGZByRaZdAACd8FcuTXOnSMNHtu5MGN5qhwu02OuP3taU8SKUUzJ459/Ev7Wxy00GHQiSA==",
   "success": true,
   "projectFilePath": "/Users/pookie/Projects/DesignPatterns/src/Procedural/GoF.DesignPatterns.Tests/GoF.DesignPatterns.Tests.csproj",
   "expectedPackageFiles": [

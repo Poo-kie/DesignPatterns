@@ -97,3 +97,5 @@
 /Users/pookie/Projects/DesignPatterns/src/Procedural/GoF.DesignPatterns.Tests/obj/Debug/net5.0/ref/GoF.DesignPatterns.Tests.dll
 /Users/pookie/Projects/DesignPatterns/src/Procedural/GoF.DesignPatterns.Tests/obj/Debug/net5.0/GoF.DesignPatterns.Tests.pdb
 /Users/pookie/Projects/DesignPatterns/src/Procedural/GoF.DesignPatterns.Tests/obj/Debug/net5.0/GoF.DesignPatterns.Tests.genruntimeconfig.cache
+/Users/pookie/Projects/DesignPatterns/src/Procedural/GoF.DesignPatterns.Tests/bin/Debug/net5.0/GoF.DesignPatterns.dll
+/Users/pookie/Projects/DesignPatterns/src/Procedural/GoF.DesignPatterns.Tests/bin/Debug/net5.0/GoF.DesignPatterns.pdb

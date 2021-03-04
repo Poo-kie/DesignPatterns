@@ -1,6 +1,6 @@
 namespace GoF.DesignPatterns.Visitor.Shapes
 {
-    public class Square
+    public class Square : ICalculateArea, ICalculatePerimeter
     {
         public Square(double side)
         {
@@ -8,5 +8,15 @@ namespace GoF.DesignPatterns.Visitor.Shapes
         }
 
         public double Side { get; }
+        
+        public double CalculateArea()
+        {
+            return Side * Side;
+        }
+
+        public double CalculatePerimeter()
+        {
+            return Side * 4;
+        }
     }
 }
