@@ -1,7 +1,7 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6b3ee9aa_002D8531_002D42ab_002Da6dd_002D1388b28b8bc7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CalculateArea_ShouldReturnExpectedArea" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::F4267602-0B7B-4529-9F0D-9314749DB028::net5.0::GoF.DesignPatterns.Tests.UnitTest1.CalculateArea_ShouldReturnExpectedArea&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::F4267602-0B7B-4529-9F0D-9314749DB028::net5.0::GoF.DesignPatterns.Tests.UnitTest1.CalculatePerimeter_ShouldReturnExpectedPerimeter&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::F4267602-0B7B-4529-9F0D-9314749DB028::net5.0::GoF.DesignPatterns.Tests.CalculateAreaTests.CalculateArea_ShouldReturnExpectedArea&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::F4267602-0B7B-4529-9F0D-9314749DB028::net5.0::GoF.DesignPatterns.Tests.CalculatePerimeterTests.CalculatePerimeter_ShouldReturnExpectedPerimeter&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
